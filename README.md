@@ -1,6 +1,3 @@
-Hi 👋 My name is mohamed regrag
-===computer science student at 1337
----I love code
 
 ### Badges
 
