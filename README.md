@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is mohamed regrag======================================================================================================================================computer science student at 1337--------------------------------I love code
+Hi 👋 My name is mohamed regrag
+===============================computer science student at 1337--------------------------------I love code
 
 <a href="https://www.github.com/mregrag" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mregrag?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Mouhamed_regrag" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/Mouhamed_regrag?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
