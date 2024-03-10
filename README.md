@@ -1,4 +1,4 @@
-# Software Engineer student
+# Software Engineer Student
 # I am currently learning C && CPP
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/mregrag" alt="mregrag's 42 stats" /></a>
 # Languages and Tools:
