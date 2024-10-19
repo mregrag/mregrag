@@ -1,4 +1,4 @@
-# Hi 👋, I'm MannBell
+# Hi 👋, I'm Mohamed Regrag 
 
 ## A passionate Software Engineer & student at [42 (1337)](https://1337.ma) 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/mregrag" alt="mregrag's 42 stats" /></a>
